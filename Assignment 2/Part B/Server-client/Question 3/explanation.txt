@@ -1,0 +1,4 @@
+The codes are compile, but don't run as we want, an error message appears.
+The programs don't run because, the IP ADRESS of the client is not configure. 
+Copy past from the code Net_client : #define IP_ADDRESS "?????" 
+Then, we got the error message as follow : Error establishing communications: Network is unreachable.

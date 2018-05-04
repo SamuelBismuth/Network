@@ -1,0 +1,2 @@
+To run the programs, you need first to run Net_server, which contains an infinite loop. Next, you can run Net_client.
+See explanations in the repport.

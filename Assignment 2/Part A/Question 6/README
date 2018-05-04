@@ -1,0 +1,11 @@
+To run the programs, you need to run Router, Server and Send_udp passing localhost as command line parameter.
+Then, the client begin to send the message you want to.
+Press 'enter' to send the message from the Client to the server, next, input a number between 0 and 1.
+The Router receives the message and the number. 
+The Router, chooses a number by a random function, and if the number choosed is higher than the number received, the Router doesn't send the message.
+Else, the router sends the message.
+Then, the Server receives (or not) the message from the Router, and you need to input a message. 
+Press 'enter' to send the message from the Server to the Client.
+The Router receives the message from the Server and, sends the message to the Client.
+And so work.
+When you send the message "exit", the codes stop.

@@ -1,0 +1,2 @@
+To run the wget you need to input as line argument the url including the path.
+Attention, only http protocol is support, and the url alway finish by a "/".

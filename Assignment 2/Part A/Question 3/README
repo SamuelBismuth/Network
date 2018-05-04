@@ -1,0 +1,1 @@
+To run the programs, you need first to run Recv_udp, which contains an infinite loop. Next, you can run Send_udp, passing localhost as command line parameter.
